@@ -1,0 +1,11 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "1. Spin up a node.js-driven server (on port 3000)\r 2. Hndle two routes: '/' and '/users'\r    *Return some greeting text on '/'\r    *Return a list of dummy users on '/users'\r 3. Add a form with a 'username' input to the '/' page and submit a POST request to '/create-user' upon a button click\r 4. Add the '/create-user' route and parse the incoming data and log it to the console",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
